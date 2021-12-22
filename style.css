@@ -1,0 +1,11 @@
+.home-block, .header-b, .discount-sticky, .main-holder {
+    display: none;
+}
+
+.add-nav.pull-left.hidden-xs.top-nav a {
+    display: none;
+}
+
+.categories-block {
+    margin-bottom: 20px;
+}
